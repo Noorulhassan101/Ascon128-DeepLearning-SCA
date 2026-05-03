@@ -1,0 +1,7 @@
+ASCON-128 Key Recovery Results
+==============================
+Target Byte: K[0]
+Traces needed for Rank 1: ~450
+Final Guess: 0x00
+Correct Key: 0x00
+Status: SUCCESS
